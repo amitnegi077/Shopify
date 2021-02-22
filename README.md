@@ -2,7 +2,7 @@
 
 Shopify is an E-commerce project built on MERN Stack.
 
-Technologies Used:-
+####Technologies Used:-
   - ReactJS
   - MongoDB
   - NodeJS
